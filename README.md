@@ -114,21 +114,6 @@ This ensures factual and trustworthy outputs.
 * Dockerization
 * Authentication
 
----
 
-## 📜 License
 
-This project is open-source and free to use for learning and portfolio purposes.
 
----
-
-## 🙌 Acknowledgements
-
-* Ollama
-* Meta (LLaMA)
-* FAISS by Facebook AI Research
-* Streamlit
-
----
-
-⭐ If you found this project useful, consider starring the repository!
